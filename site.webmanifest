@@ -1,0 +1,15 @@
+{
+ "name": "AIFolder",
+ "short_name": "AIF",
+ "start_url": "/",
+ "display": "browser",
+ "background_color": "#f3f6f4",
+ "theme_color": "#0e1b2e",
+ "icons": [
+  {
+   "src": "/img/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}

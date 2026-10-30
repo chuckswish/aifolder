@@ -1,0 +1,5 @@
+Contact: mailto:security@aifolder.xyz
+Expires: 2027-12-31T00:00:00.000Z
+Preferred-Languages: en, es
+Canonical: https://aifolder.xyz/.well-known/security.txt
+Policy: https://aifolder.xyz/trust.html
